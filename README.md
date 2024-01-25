@@ -40,4 +40,4 @@ NeuroFetalNet weights can be downloaded from [OneDrive](https://1drv.ms/u/s!Agcx
 
 ## Acknowledgements
 
-I would like to express my gratitude to my co-authors [Jiaqi Zhao](https://github.com/baobooooo), [Xinrong Miao](https://github.com/stefenMiao]) and [Yanqiao Wu]() for their valuable contributions to this reasearch.
+I would like to express my gratitude to my co-authors [Jiaqi Zhao](https://github.com/baobooooo), [Xinrong Miao](https://github.com/stefenMiao]) and [Yanqiao Wu](https://github.com/wyq666999) for their valuable contributions to this reasearch.
