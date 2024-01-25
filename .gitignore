@@ -1,0 +1,10 @@
+*.pth
+*.pt
+*.ts
+__pycache__/
+*.pyc 
+*.pyo
+*.log
+delete_wrong.ipynb
+split.ipynb
+test.ipynb
