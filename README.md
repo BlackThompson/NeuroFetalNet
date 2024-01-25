@@ -1,4 +1,4 @@
-###### [Overview](#NeuroFetalNet) | [Setup & Usage](#Setup_&_Usage) | [Weights](#NeuroFetalNet_weights) | [Acknowledgements](#Acknowledgements)
+###### [Overview](#NeuroFetalNet) | [Setup & Usage](#Setup-&-Usage) | [Weights](#NeuroFetalNet-weights) | [Acknowledgements](#Acknowledgements)
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
