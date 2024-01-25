@@ -4,7 +4,9 @@
 
 # NeuroFetalNet
 
-Code for paper: "*NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact*". NeuroFetalNet utilizes multi-scale feature extractor to effectively capture features from FHR (Fetal Heart Rate) and UCP (Uterine Contraction Pattern). This approach has demonstrated SOTA performance in predicting the health status of the fetus.
+Code for paper: "*NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact*". 
+
+NeuroFetalNet utilizes multi-scale feature extractor to effectively capture features from FHR (Fetal Heart Rate) and UCP (Uterine Contraction Pattern). This approach has demonstrated SOTA performance in predicting the health status of the fetus.
 
 ## Setup & Usage
 
