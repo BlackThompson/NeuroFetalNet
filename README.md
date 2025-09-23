@@ -28,7 +28,7 @@ NeuroFetalNet utilizes multi-scale feature extractor to effectively capture feat
    cd NeuroFetalNet
    ```
 
-3. Download the dataset from [OneDrive]([BabyBeat_dataset](https://1drv.ms/f/c/01109175203b3107/EgcxOyB1kRAggAHsAAAAAAABeMUEwJF-s-_bxe_QRErNoA?e=gR1zBI)), and replace the folder `BabyBeat_dataset` with the downloaded folder.
+3. Download the dataset from [BabyBeat_dataset](https://1drv.ms/f/c/01109175203b3107/EgcxOyB1kRAggAHsAAAAAAABeMUEwJF-s-_bxe_QRErNoA?e=gR1zBI), and replace the folder `BabyBeat_dataset` with the downloaded folder.
 
 4. Run the script `ablation.sh` to reproduce the best results. 
 
@@ -38,7 +38,7 @@ NeuroFetalNet utilizes multi-scale feature extractor to effectively capture feat
 
 ## NeuroFetalNet weights
 
-NeuroFetalNet weights can be downloaded from [OneDrive]([NeuroFetalNet_16bs_100epoc_3ks_both.pth](https://1drv.ms/u/c/01109175203b3107/EQcxOyB1kRAggAHxAAAAAAABgFvWG_iYBkJMl5G-WXRjWg?e=yVxXZJ)).
+NeuroFetalNet weights can be downloaded from [OneDrive](https://1drv.ms/u/c/01109175203b3107/EQcxOyB1kRAggAHxAAAAAAABgFvWG_iYBkJMl5G-WXRjWg?e=yVxXZJ).
 
 ## Acknowledgements
 
